@@ -2,7 +2,7 @@
 
 - 🔭 Sou Analista de TI Jr
 - 🌱 Estudando Sistemas de Informação - Migrando para desenvolvimento
-- ✨ Praticando HTML5, JavaScript, Python and Flutter.
+- ✨ Praticando HTML5, CSS, Python e C#.
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/0MASSONI">
