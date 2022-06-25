@@ -1,6 +1,6 @@
 ### Oi eu sou o Caio de Paula mais conhecido como OMASSONI 👋
 
-- 🔭 Sou Analista de TI Jr
+- 🔭 Sou Analista de TI Pleno
 - 🌱 Estudando Sistemas de Informação - Migrando para desenvolvimento
 - ✨ Praticando HTML5, CSS, Python e JavaScript.
 - 😄 Pronouns: ele/dele
